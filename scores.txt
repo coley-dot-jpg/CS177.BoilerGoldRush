@@ -1,0 +1,9 @@
+eeeml, 1
+Emelie, 5
+em, 10
+emlie, 10
+jim, 15
+bob, 20
+fg, 28
+emelie, 63
+bghf, 148
